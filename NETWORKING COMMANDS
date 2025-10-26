@@ -1,0 +1,16 @@
+TITLE = NETWORKING COMMANDS 
+1, arp -a = it shows IP Address Address Resolution Protocol (ARP)
+2, hostname = SystemName
+3, ipconfig = Hostmachine configuration fully display
+4, ipconfig/all = Roder dns(domain name System) display DHCP is (Dynamic Host Configuration Protocol)
+5, ipconfig/renew = is used to request a new IP address from the DHCP server.
+6, ipconfig/release = is used to drop the current IP address assigned by the DHCP server.
+7, ipconfig/flushdns = is used to clear the DNS resolver cache on your system.
+8, nbtstat -a = is a Windows command used to display NetBIOS name table of a remote machine.
+9, netstat = (short for Network Statistics) is a powerful command-line tool used to display active network connections and protocol statistics.
+10, nslookup = (short for Name Server Lookup) is a command-line tool used to query DNS servers and obtain domain name or IP address mapping.
+11, ping = (PING is Packet Internet Groper).is a command-line utility used to test network connectivity between your device and another host (like a website or server).
+12, route = is a command-line utility used to view and manipulate the IP routing table on a system.
+13, tracert = (short for Trace Route) is a Windows command-line tool used to track the path that packets take from your computer to a destination host.
+14, pathping = is a Windows command-line tool that combines the features of ping and tracert to give a detailed analysis of network performance across each hop.
+15, tcpdump = is a powerful command-line packet analyzer used primarily on UNIX/Linux systems to capture and inspect network traffic.
